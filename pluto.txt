@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PLUTO isnt a planet, it isnt big enough.
 something something something
+=======
+It is so a planet!
+Does it make a difference?
+>>>>>>> cab9270520782f6279d87d966272ca51bab1e015
